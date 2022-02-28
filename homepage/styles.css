@@ -1,0 +1,18 @@
+h1 {
+    color: DarkGreen;
+}
+p {
+    font-size: 20px;
+    border: 2px solid Red;
+}
+h2 {
+    background-color:Blue;
+}
+body {
+    text-align: center;
+    background-color: Cyan;
+}
+#GameStop {
+    height: 500px;
+    width: 500px;
+}
